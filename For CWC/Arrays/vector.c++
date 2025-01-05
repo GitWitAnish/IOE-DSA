@@ -25,5 +25,17 @@ int main() {
 
 
 
+//    // Inserting 'z' at the back
+//       v.push_back('z');
+  
+//       // Inserting 'c' at index 1
+//       v.insert(v.begin() + 1, 'c');
 
 
+
+//         // Deleting last element 'z'
+//       v.pop_back();  
+
+
+//    // Deleting element 'f'
+//       v.erase(find(v.begin(), v.end(), 'f'));
