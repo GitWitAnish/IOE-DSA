@@ -1,1 +1,0 @@
-This folder contains DSA concepts I learned to participate in CWC.
