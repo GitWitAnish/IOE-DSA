@@ -3,7 +3,7 @@
 *.out
 *.app
 *.bin
-*
+*.
 
 # Object files
 *.o
@@ -32,5 +32,3 @@
 # VSCode folder
 .vscode/
 
-# MacOS system files
-.DS_Store
