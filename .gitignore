@@ -1,0 +1,35 @@
+# Executables
+*.exe
+*.out
+a.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Static libraries
+*.a
+*.lib
+
+# Shared libraries
+*.so
+*.dll
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Binary/Data files
+*.bin
+*.dat
+
+# VSCode folder
+.vscode/
+
+# MacOS system files
+.DS_Store
