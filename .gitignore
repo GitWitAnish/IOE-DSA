@@ -1,8 +1,9 @@
 # Executables
 *.exe
 *.out
-a.out
 *.app
+*.bin
+*
 
 # Object files
 *.o
