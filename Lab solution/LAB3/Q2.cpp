@@ -59,20 +59,6 @@ void dequeue()
     }
 }
 
-void displayQueue()
-{
-    if (isEmpty())
-    {
-        cout << "Queue is empty" << endl;
-        return;
-    }
-
-    for (int i = front; i <= rear; i++)
-    {
-        cout << A[i] << " ";
-    }
-    cout << endl;
-}
 
 int main()
 {
@@ -81,6 +67,6 @@ int main()
     enqueue(4);
     enqueue(6);
     dequeue();
-    displayQueue();
+
     return 0;
 }
