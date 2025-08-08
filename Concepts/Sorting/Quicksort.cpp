@@ -50,7 +50,7 @@ int main()
 {
   int data[] = {-10, 100, 12, 0, 12, 2, 1};
   int size = sizeof(data) / sizeof(data[0]);
-  quickSort(data, 0, size);
+  quickSort(data, 0, size-1);
   cout << "Sorted array in ascending order: " << endl;
   printArray(data, size);
 }
